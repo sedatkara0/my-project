@@ -1,7 +1,7 @@
 {
   "name": "my-project",
   "version": "1.0.0",
-  "description": "This project was created to learn Git and CI/CD.",
+  "description": "Bu proje Git ve GitHub Actions öğrenmek için oluşturuldu.",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
